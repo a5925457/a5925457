@@ -1,7 +1,7 @@
 
 ---
 
-"We can do better and be better."
+"We can do better and be better." - Mary Hsieh
 
 ---
 
