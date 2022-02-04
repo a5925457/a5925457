@@ -9,7 +9,7 @@
 
 - 🐰 Hello! I’m Mary Hsieh @a5925457
 - 💕 I'm interested in ***coding, drawing and Korean culture.***
-- 💪 currently learning ***ReactJS*** to be an Frontend Engineer.
+- 💪 currently learning ***ReactJS*** to be a Frontend Engineer.
 - 📫 mailto: a5925457@gmail.com
 
 <!--
