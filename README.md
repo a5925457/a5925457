@@ -8,6 +8,7 @@
 ### Hi there 👋
 
 - 🐰 Hello! I’m Mary Hsieh @a5925457
+- 🎓 NTNU TAHRD
 - 💕 I'm interested in ***coding, drawing and Korean culture.***
 - 💪 currently learning ***ReactJS*** to be a Frontend Engineer.
 - 📫 mailto: a5925457@gmail.com
